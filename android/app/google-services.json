@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248222204167",
+    "project_id": "mind-clash-1756b",
+    "storage_bucket": "mind-clash-1756b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248222204167:android:a280d928778f0a71dfc5a2",
+        "android_client_info": {
+          "package_name": "com.example.mindclash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQ5cSPJJekfI9jg8EKqQFh9194BfpO20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
